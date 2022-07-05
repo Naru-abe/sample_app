@@ -13,14 +13,14 @@
  *= require_tree .
  *= require_self
  */
- 
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-header,h1,nav.list-comment{
+header, h1, nav, .list-comment{
   font-family: "Kaushan",cursive,sans-serif;
 }
 
@@ -62,7 +62,7 @@ main{
 
 .list-wrap{
   display: flex;
-  
+
   flex-wrap: wrap;
 }
 

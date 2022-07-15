@@ -9,38 +9,38 @@ DMM WEBCMPチーム開発で作成
 
 ### アプリケーション詳細
 ### 会員側	
--ログイン/ログアウト				
--会員登録/退会/編集				
--配送先指定				
--検索（ジャンル・商品名）				
--カート（商品追加/一覧/編集）				
--注文（支払方法、配送先の選択）				
--注文履歴一覧・詳細	
+- ログイン/ログアウト				
+- 会員登録/退会/編集				
+- 配送先指定				
+- 検索（ジャンル・商品名）				
+- カート（商品追加/一覧/編集）				
+- 注文（支払方法、配送先の選択）				
+- 注文履歴一覧・詳細	
 			
 ### 管理者側
--ログイン・ログアウト				
--注文履歴一覧・詳細				
--会員一覧・詳細				
--商品一覧・詳細・編集				
--商品のジャンル設定				
--検索	
+- ログイン・ログアウト				
+- 注文履歴一覧・詳細				
+- 会員一覧・詳細				
+- 商品一覧・詳細・編集				
+- 商品のジャンル設定				
+- 検索	
 
 ### 言語					
--HTML				
--CSS				
--Ruby on Rails				
--JavaScript	
+- HTML				
+- CSS				
+- Ruby on Rails				
+- JavaScript	
 
 ### 設計
--[ER図](https://mermaidjs.github.io/)
--[テーブル定義書](https://mermaidjs.github.io/)
--[アプリケーション詳細設計](https://mermaidjs.github.io/)
--[管理者側ワイヤーフレーム](https://mermaidjs.github.io/)
--[会員側ワイヤーフレーム](https://mermaidjs.github.io/)
+- [ER図](https://mermaidjs.github.io/)
+- [テーブル定義書](https://mermaidjs.github.io/)
+- [アプリケーション詳細設計](https://mermaidjs.github.io/)
+- [管理者側ワイヤーフレーム](https://mermaidjs.github.io/)
+- [会員側ワイヤーフレーム](https://mermaidjs.github.io/)
 
-#開発メンバー
--ますみん
--ホシちゃん
--なるっぺ
--はまちゃん
+# 開発メンバー
+- ますみん
+- ホシちゃん
+- なるっぺ
+- はまちゃん
 

@@ -1,24 +1,46 @@
-# README
+# 長野Cake
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 概要
+DMM WEBCMPチーム開発で作成
+長野県にある小さな洋菓子店「ながのCAKE」の商品を通販するためのECサイト
 
-Things you may want to cover:
+# 背景
+元々近隣住民が顧客だったが、昨年始めたInstagramから人気となり、全国から注文が来るよう になった。 InstagramのDMやメールで通販の注文を受けていたが、情報管理が煩雑になってきたため、管 理機能を含んだ通販サイトを開設しようと思い至った。
 
-* Ruby version
+# アプリケーション詳細
+## 会員側	
+-ログイン/ログアウト				
+-会員登録/退会/編集				
+-配送先指定				
+-検索（ジャンル・商品名）				
+-カート（商品追加/一覧/編集）				
+-注文（支払方法、配送先の選択）				
+-注文履歴一覧・詳細	
+			
+## 管理者側
+-ログイン・ログアウト				
+-注文履歴一覧・詳細				
+-会員一覧・詳細				
+-商品一覧・詳細・編集				
+-商品のジャンル設定				
+-検索	
 
-* System dependencies
+# 言語					
+-HTML				
+-CSS				
+-Ruby on Rails				
+-JavaScript	
 
-* Configuration
+# 設計
+-[ER図](https://mermaidjs.github.io/)
+-[テーブル定義書](https://mermaidjs.github.io/)
+-[アプリケーション詳細設計](https://mermaidjs.github.io/)
+-[管理者側ワイヤーフレーム](https://mermaidjs.github.io/)
+-[会員側ワイヤーフレーム](https://mermaidjs.github.io/)
 
-* Database creation
+#開発メンバー
+-ますみん
+-ホシちゃん
+-なるっぺ
+-はまちゃん
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
